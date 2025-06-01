@@ -1,0 +1,1 @@
+Artificial Intelligence was used in this project as a learning/support tool and troubleshooting. We relied on AI to better understand how shaders work and to clarify specific doubts or difficulties we encountered throughout the development process.
